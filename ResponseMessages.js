@@ -1,0 +1,28 @@
+module.exports = {
+    serverError: 'Something went wrong!!!',
+    registrationSuccess: "Registered Successfully",
+    duplicateEmail: "Email already exists",
+    loginSuccess: "Logged in successfully",
+    invalidCreds: "Invalid credentials",
+    invalidEmail: "Invalid email address",
+    invalidPassword: "Invalid password",
+    invalidUser: "User not found",
+    userNotFound: 'User not found',
+    authFailure: 'Authentication failed',
+    authRequired: 'Authentication required',
+    userDetails: 'User details has been fetched successfully',
+    userNotFound: 'User does not exist',
+    userUpdate: 'User profile has been updated successfully',
+    userDelete: 'User has been deleted successfully',
+    uploadProfilePicture: 'Profile picture has been uploaded successfully',
+    noImageFound: 'Image not found',
+    userList: 'User list has been fetched successfully',
+    userDetails: 'User details has been fetched successfully',
+    noteCreate: 'Note has been created successfully',
+    noteList: 'Note list has been fetched successfully',
+    noteDetails: 'Note details has been fetched successfully',
+    noteNotFound: 'Note not found',
+    noteUpdate: 'Note details has been updated successfully',
+    noteDelete: 'Note has been deleted successfully'
+
+}
